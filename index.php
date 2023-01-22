@@ -13,4 +13,8 @@ $app->router->get('/', function() {
     return "Hello World";
 });
 
+$app->router->get('/about', function() {
+    return "About Page";
+});
+
 $app->run();
