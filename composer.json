@@ -1,0 +1,16 @@
+{
+    "name": "dandev14/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "Dandev14\\PhpmvcFramework\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "IdaDanuartha",
+            "email": "idadanuartha42@smk.belajar.id"
+        }
+    ],
+    "require": {}
+}
